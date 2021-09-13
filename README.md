@@ -11,7 +11,7 @@ I added some of my image processing skills to the development of this challenge 
 
 Finally, how this game works:
 
-When you run the file main.py you must type your name and last name and then you will see something like this:
+When you run the file main.py you must type your name and last name in the console and then you will see something like this:
 
 ![alt text](https://github.com/johanramirez91/RetoSofka/blob/main/Images/Screen1.png)
 
