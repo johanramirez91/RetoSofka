@@ -27,5 +27,14 @@ As you can see, the program detects the hands, through them we are going to sele
 
 If your answer is incorrect you will see this message in screen :arrow_heading_down: :
 
-![alt text]()
+![alt text](https://github.com/johanramirez91/RetoSofka/blob/main/Images/Screen3.png)
+
+But if your answer is correct you going to the next level question:
+
+![alt text](https://github.com/johanramirez91/RetoSofka/blob/main/Images/Screen4.png)
+
+The maximum score is 250, which you will achieve by answering 5 questions, 1 per level so... go for it and enjoy.
+
+![alt text](https://github.com/johanramirez91/RetoSofka/blob/main/Images/Screen5.png)
+
 
