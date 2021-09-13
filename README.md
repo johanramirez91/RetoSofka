@@ -39,4 +39,4 @@ But if your answer is correct you going to the next level question:
 
 ![alt text](https://github.com/johanramirez91/RetoSofka/blob/main/Images/Screen5.png)
 
-
+### Thank you Sofka for your time and for this opportunity 
