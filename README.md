@@ -21,5 +21,11 @@ As you can see, the program detects the hands, through them we are going to sele
 2. try to copy with one of your hands the way the hands are shown in the above picture.
 3. to select an answer you should move your hands with the :v: gesture and then join index and middle fingers just like this :arrow_heading_down: :
 
+![alt text](https://github.com/johanramirez91/RetoSofka/blob/main/Images/Screen2.png)
 
+4. Once you have selected an answer it's required you separed the fingers again :v:
+
+If your answer is incorrect you will see this message in screen :arrow_heading_down: :
+
+![alt text]()
 
